@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Exam Score Predictor
 
 This is a simple machine learning web application that predicts a student's exam score based on study hours and sleep hours.
@@ -30,3 +31,7 @@ streamlit run app.py
 - Interactive sliders
 - Instant AI prediction
 - Simple machine learning model
+=======
+# exam-score-ai-app
+A machine learning web application that predicts a student's exam score based on study hours and sleep hours. Built with Python, scikit-learn, and Streamlit.
+>>>>>>> 80a30320d73f171ece614323a63bab5ec45b3966
